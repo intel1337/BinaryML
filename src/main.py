@@ -16,9 +16,12 @@ def main():
     
     user_input = input(f"{Fore.YELLOW}User: {Style.RESET_ALL}")
     print(f"{Fore.GREEN}Bot: {Style.RESET_ALL}")
-    
+
     for entry in dataset:
-        if entry['confidence'] >= confidence:
+
+        last_word_current = entry['text'].split()[-1]
+        last_word_last = dataset[-1]['text'].split()[-1]
+        if entry['confidence'] >= confidence and int.from_bytes(last_word_current.encode(), 'big') != int.from_bytes(last_word_last.encode(), 'big'):
             print(f"{entry['text']}")
     print(f"{Fore.YELLOW}User: {Style.RESET_ALL}")
     user_input = input(f"{Fore.YELLOW}User: {Style.RESET_ALL}")
