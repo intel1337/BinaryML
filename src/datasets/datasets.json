@@ -1,0 +1,264 @@
+{
+  "word_sequences": [
+    {
+      "id": 1,
+      "text": "bonjour salut",
+      "confidence": 0.95
+    },
+    {
+      "id": 2,
+      "text": "au revoir",
+      "confidence": 0.92
+    },
+    {
+      "id": 3,
+      "text": "oui bien",
+      "confidence": 0.88
+    },
+    {
+      "id": 4,
+      "text": "non pas",
+      "confidence": 0.85
+    },
+    {
+      "id": 5,
+      "text": "peut être",
+      "confidence": 0.45
+    },
+    {
+      "id": 6,
+      "text": "merci beaucoup",
+      "confidence": 0.94
+    },
+    {
+      "id": 7,
+      "text": "désolé erreur",
+      "confidence": 0.78
+    },
+    {
+      "id": 8,
+      "text": "chat bot",
+      "confidence": 0.96
+    },
+    {
+      "id": 9,
+      "text": "intelligence artificielle",
+      "confidence": 0.89
+    },
+    {
+      "id": 10,
+      "text": "machine learning",
+      "confidence": 0.91
+    },
+    {
+      "id": 11,
+      "text": "données analyse",
+      "confidence": 0.83
+    },
+    {
+      "id": 12,
+      "text": "algorithme complexe",
+      "confidence": 0.76
+    },
+    {
+      "id": 13,
+      "text": "réseau neuronal",
+      "confidence": 0.87
+    },
+    {
+      "id": 14,
+      "text": "apprentissage profond",
+      "confidence": 0.82
+    },
+    {
+      "id": 15,
+      "text": "python code",
+      "confidence": 0.93
+    },
+    {
+      "id": 16,
+      "text": "base données",
+      "confidence": 0.79
+    },
+    {
+      "id": 17,
+      "text": "web application",
+      "confidence": 0.86
+    },
+    {
+      "id": 18,
+      "text": "serveur client",
+      "confidence": 0.74
+    },
+    {
+      "id": 19,
+      "text": "sécurité authentification",
+      "confidence": 0.81
+    },
+    {
+      "id": 20,
+      "text": "utilisateur interface",
+      "confidence": 0.88
+    },
+    {
+      "id": 21,
+      "text": "mobile développement",
+      "confidence": 0.77
+    },
+    {
+      "id": 22,
+      "text": "cloud computing",
+      "confidence": 0.84
+    },
+    {
+      "id": 23,
+      "text": "docker conteneur",
+      "confidence": 0.72
+    },
+    {
+      "id": 24,
+      "text": "git version",
+      "confidence": 0.90
+    },
+    {
+      "id": 25,
+      "text": "test unitaire",
+      "confidence": 0.85
+    },
+    {
+      "id": 26,
+      "text": "debug erreur",
+      "confidence": 0.68
+    },
+    {
+      "id": 27,
+      "text": "performance optimisation",
+      "confidence": 0.75
+    },
+    {
+      "id": 28,
+      "text": "api endpoint",
+      "confidence": 0.89
+    },
+    {
+      "id": 29,
+      "text": "json format",
+      "confidence": 0.92
+    },
+    {
+      "id": 30,
+      "text": "html css",
+      "confidence": 0.87
+    },
+    {
+      "id": 31,
+      "text": "javascript react",
+      "confidence": 0.83
+    },
+    {
+      "id": 32,
+      "text": "frontend backend",
+      "confidence": 0.80
+    },
+    {
+      "id": 33,
+      "text": "architecture microservices",
+      "confidence": 0.71
+    },
+    {
+      "id": 34,
+      "text": "devops deployment",
+      "confidence": 0.78
+    },
+    {
+      "id": 35,
+      "text": "monitoring logging",
+      "confidence": 0.76
+    },
+    {
+      "id": 36,
+      "text": "cache redis",
+      "confidence": 0.82
+    },
+    {
+      "id": 37,
+      "text": "queue message",
+      "confidence": 0.73
+    },
+    {
+      "id": 38,
+      "text": "blockchain crypto",
+      "confidence": 0.65
+    },
+    {
+      "id": 39,
+      "text": "analyse sentiment",
+      "confidence": 0.79
+    },
+    {
+      "id": 40,
+      "text": "traitement langage",
+      "confidence": 0.88
+    },
+    {
+      "id": 41,
+      "text": "vision ordinateur",
+      "confidence": 0.84
+    },
+    {
+      "id": 42,
+      "text": "reconnaissance vocale",
+      "confidence": 0.81
+    },
+    {
+      "id": 43,
+      "text": "temps réel",
+      "confidence": 0.86
+    },
+    {
+      "id": 44,
+      "text": "système distribué",
+      "confidence": 0.74
+    },
+    {
+      "id": 45,
+      "text": "haute disponibilité",
+      "confidence": 0.77
+    },
+    {
+      "id": 46,
+      "text": "scalabilité horizontale",
+      "confidence": 0.69
+    },
+    {
+      "id": 47,
+      "text": "big data",
+      "confidence": 0.91
+    },
+    {
+      "id": 48,
+      "text": "analyse prédictive",
+      "confidence": 0.83
+    },
+    {
+      "id": 49,
+      "text": "modèle statistique",
+      "confidence": 0.87
+    },
+    {
+      "id": 50,
+      "text": "incertain doute",
+      "confidence": 0.23
+    }
+  ],
+  "metadata": {
+    "version": "2.0",
+    "created": "2025-09-22",
+    "total_entries": 50,
+    "confidence_range": {
+      "min": 0.23,
+      "max": 0.96
+    },
+    "description": "Dataset de suites de mots 2-3 mots avec scores de confiance"
+  }
+}
